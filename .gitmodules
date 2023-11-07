@@ -3,3 +3,7 @@
 	url = https://github.com/swecery/art-portfolio.git
 	branch = main
 
+[submodule "CountryFlagQuiz"]
+	path = CountryFlagQuiz
+	url = https://github.com/swecery/CountryFlagQuiz
+	branch = main
