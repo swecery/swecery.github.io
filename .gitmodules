@@ -1,3 +1,4 @@
 [submodule "art-portfolio"]
     path = art-portfolio
-    url = https://github.com/swecery/art-portfolio.git
+    url = https://github.com/swecery/art-portfolio
+	origin = stable
